@@ -1,5 +1,6 @@
+import machine
+
 from ssd1306 import SSD1306_I2C
-import utime, machine
 
 OLED_WIDTH = 128
 OLED_HEIGHT = 64
