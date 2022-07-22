@@ -1,0 +1,1 @@
+[https://wiki.luatos.com/chips/esp32c3/board.html](https://wiki.luatos.com/chips/esp32c3/board.html)
